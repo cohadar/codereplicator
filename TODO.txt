@@ -1,0 +1,27 @@
+//==========================================
+//  TODO
+//==========================================
+* add sort functionality to lists
+
+* add underlining or color coding to replicated parts in output
+
+* examples drop-down box - outside configurable - templates.
+
+* instead of scaling 32x32 icons to 24x24 import smaller icons too.
+
+//==========================================
+//  DONE
+//==========================================
+* add underlining or color coding to matched parts in input
+* highlight first line in argument lists
+* smart problem reporting: 
+	+ first argument in smart list should use underscore - DONE
+	+ first argument cannot be null (if list not empty) - DONE
+	+ first argument not found in template - DONE
+* Fix hyperlink label problem in linux. - CIRCUMVENTED
+* Add undo/redo support
+* predefined sequences 0..9 a..z ...
+* if smart list contains indentifiers not in c-case autoconvert to c-case
+* text actions don't update disabled state on selection
+* edit actions should show their hotkeys
+* commands for increasing and decreasing font size.

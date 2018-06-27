@@ -1,0 +1,5 @@
+This is the source of Code Replicator, it has no executable files.
+If you just want to test this program download binary version.
+
+Code Replicator is developed in eclipse.
+This source tree is a root of eclipse project.

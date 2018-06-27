@@ -1,0 +1,29 @@
+//======================
+// v2.0 ==== 2011-09-19
+//======================
+* first list now uses case-inference (smart matching)
+* color coding of lists and input
+* argument lists have line numbers
+* fancy new toolbar
+  * removed old case-commands (not needed any more because of case-inference)
+  * added automatic integer and char list generation
+
+//======================
+// v1.2 ==== 2011-09-13
+//======================
+* better toolbar
+* implicit case replicating (no uppercase/lowercase commands)
+* newline automatically appended between replications
+
+
+//======================
+// v1.1 ==== 2011-08-25
+//======================
+
+* added status panel
+* list_2 is now directly editable.
+* input text area that is in focus is indicated with blue background.
+* Ctrl-TAB now cycles between input text areas. 
+* changed font to Courier and tab size to 4.
+* fixed popup windows not showing in some linux versions
+* hyperlinks are now pasted to clipboard if they cannot open default browser

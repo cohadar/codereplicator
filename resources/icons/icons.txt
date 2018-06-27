@@ -1,0 +1,19 @@
+cohadar@gmail.com
+	replicator.png
+	edit-copy-all.png - mod(edit-copy.png)
+	edit-copy-block.png - mod(edit-copy.png)
+
+http://tango.freedesktop.org/Tango_Icon_Library
+	list-remove.png
+	list-add.png
+	help-browser.png
+	edit-undo.png
+	edit-select-all.png
+	edit-redo.png
+	edit-paste.png
+	edit-delete.png
+	edit-cut.png
+	edit-copy.png
+	dialog-warning.png
+	dialog-information.png
+	dialog-error.png

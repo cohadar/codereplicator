@@ -1,0 +1,12 @@
+dec_font
+inc_font
+az
+range
+help
+cut
+copy
+paste
+delete
+select_all
+undo
+redo

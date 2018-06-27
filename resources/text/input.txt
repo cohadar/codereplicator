@@ -1,0 +1,7 @@
+// Up Left
+case DIRECTION_NORTH_WEST: {
+    log("fire::north::west");
+    Missile northWest = new NorthWestMissile();
+    fire(northWest);
+    break;
+}
