@@ -1,3 +1,6 @@
+# Backup of my (very) old project from SourceForge
+https://sourceforge.net/projects/codereplicator/
+
 ## Code Replicator
 Code Replicator is a general purpose interactive programmer's tool 
 for creating large blocks of similar code from list(s) of variables.
